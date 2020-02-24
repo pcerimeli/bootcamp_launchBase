@@ -21,4 +21,5 @@ peso / (altura * altura);
 Baseado no valor obtido através desse cálculo exiba as seguintes mensagens:
 
 SE o IMC maior ou igual a 30: Carlos você está acima do peso;
+
 SE o IMC menor que 29.9: Carlos você não está acima do peso;
